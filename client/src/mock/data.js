@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: `My full name is Muhammad Akbar Habiby Khalid.`,
   paragraphTwo: `I'm extremely loves to learn new technologies. I've been start coding since I was High School, I wrote my first code with HTML and PHP. I'm a Software Developer, Filmmaker, Photographer, and Gamer.`,
   paragraphThree: `When I'm not coding, I'm probably watchng YouTube, hanging out with my family, or playing games.`,
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: 'https://akbarhabiby.github.io/documents/Resume-Muhammad_Akbar_Habiby_Khalid.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
